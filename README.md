@@ -1,1 +1,1 @@
-# Game-of-thrones-dataviz
+Data visualization working on the Game of Thrones data set provided in the "got" folder. 
